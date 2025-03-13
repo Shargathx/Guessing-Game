@@ -1,6 +1,7 @@
 # Test Cases for Guessing Game
 
-## Precondition: The game is opened and loaded in a supported web browser
+## Precondition 1: The game is opened and loaded in a supported web browser (e.g., Firefox 136.0.1 (64-bit)).
+## Precondition 2: The test environment includes Windows 10 Operating System (tests were written on 22H2 version).
 
 ## Test Case 1: All buttons are visible on load
 - **Test Case ID:** TC001  
